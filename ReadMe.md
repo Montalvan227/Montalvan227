@@ -12,9 +12,6 @@ Hola!, me llamo Carlos Montalvan soy estudiante del VI semestre de la carrera de
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Montalvan227&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Montalvan227&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/https://twitter.com/montalvan_2702)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RusoHack&icon=0&color=0)](https://visitcount.itsvg.in)
 
