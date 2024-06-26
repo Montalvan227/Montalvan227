@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!, me llamo Carlos Montalvan soy estudiante del VI semestre de la carrera de Ingeniería de Software con Inteligencia Artificial en SENATI. <br>Tengo 21 años y soy natural de Monsefú. Soy un chico muy productivo con ideas innovadoras.<br>Realicé practicas pre - profesionales en la I.E Santa Magdalena Sofia Barat de Chiclayo, donde realicé una página web mejorada a la que ya tenían.<br>
+Hola!, me llamo Carlos Montalvan soy egresado (Título en trámite) de la carrera de Ingniería de Software con Inteligencia Artificial, cuento con 1 año de experiencia, tengo amplio conocimiento en distintas plataformas y lenguajes de programación.<br>
 
 
 ## 🌐 Socials:
