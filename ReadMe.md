@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!, me llamo Carlos Montalvan soy egresado y titulado de la carrera de Ingniería de Software con Inteligencia Artificial, cuento con 1 año de experiencia, tengo amplio conocimiento en distintas plataformas y lenguajes de programación. Mi portafolio está en el repositorio que tiene mi nombre.<br>
+¡Hola! Soy Carlos Montalvan, Ingeniero de Software especializado en Inteligencia Artificial. Cuento con un año de experiencia en el desarrollo de soluciones tecnológicas y poseo amplio dominio de diversas plataformas y lenguajes de programación. Me apasiona la innovación, el aprendizaje continuo y la creación de proyectos que generen impacto.<br>
 
 
 ## 🌐 Socials:
